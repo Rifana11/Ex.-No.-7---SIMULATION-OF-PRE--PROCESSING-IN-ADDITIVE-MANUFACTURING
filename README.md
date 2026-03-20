@@ -30,7 +30,8 @@
 ### d. Path Planning:
 ### Path planning helps to improve the printed surface quality, shape accuracy and infill distribution quality. There are various ways for path planning which can be used to print the objects which may affect the following factors in objects like raster path, grid path, spiral path and zigzag path.
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/baef8515-67d7-4c96-accc-4ee88035c9e7)
+<img width="458" height="557" alt="Screenshot 2026-03-20 085536" src="https://github.com/user-attachments/assets/c5b6ad28-2569-439c-b2b3-3c52d7baab5e" />
+
 
 ### ●	All the processes related to pre-processing will be shown on the screen.
 ### ●	Select CAD file preparation from the visible list.
@@ -39,14 +40,16 @@
 ### ●	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the process to be selected.
 
 ## OUTPUT:
-![123_1](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ec8dafd7-cb7c-4a5b-936c-41e86a32a9da)
-![123_2](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/c071a941-e5b4-4b31-af63-5f9fe08cd0fb)
-![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
+<img width="540" height="359" alt="Screenshot 2026-03-20 085715" src="https://github.com/user-attachments/assets/351fc714-62ce-4b0a-815b-743d6f03b8a5" />
+<img width="532" height="309" alt="Screenshot 2026-03-20 085736" src="https://github.com/user-attachments/assets/afc108fe-0e29-4fc4-9d19-eac3d0452f17" />
+<img width="535" height="285" alt="Screenshot 2026-03-20 085851" src="https://github.com/user-attachments/assets/30c13729-ba13-4ea6-8d8e-a292b9ce350d" />
+<img width="505" height="269" alt="Screenshot 2026-03-20 085914" src="https://github.com/user-attachments/assets/d6f7ca5c-1e38-40a7-b1f7-7ecc368179dc" />
+<img width="505" height="271" alt="Screenshot 2026-03-20 085938" src="https://github.com/user-attachments/assets/e9fa7441-57ab-409f-a68c-203b8af4c8be" />
+<img width="551" height="340" alt="Screenshot 2026-03-20 085959" src="https://github.com/user-attachments/assets/b3170c7b-4d5e-4f4a-a5fc-f34fff238750" />
 
-## Output:
 
-### Name:
-### Register Number:
+### Name:RIFANA BARVEEN M
+### Register Number:212225040336
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
